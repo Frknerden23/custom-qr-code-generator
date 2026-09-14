@@ -12,12 +12,15 @@ The application allows users to generate QR codes from URLs, customize foregroun
 ⚡ High error correction level for logo-supported QR codes
 🖥️ Simple and user-friendly desktop interface
 ❌ Error handling and user notifications
+
 🛠️ Technologies
+
 Python
 Tkinter – Desktop GUI
 PyQRCode – QR code generation
 Pillow (PIL) – Image processing and logo integration
 pypng – PNG generation support
+
 📦 Installation
 
 Clone the repository:
@@ -32,13 +35,21 @@ pip install pyqrcode pypng pillow
 Run the application:
 
 python Logolu_qr.py
+
 📖 How to Use
+
 Enter the URL you want to convert into a QR code.
+
 Select a foreground color.
+
 Select a background color.
+
 Optionally enable "Ortasına logo ekle" and choose an image.
+
 Click "QR Kodunu Oluştur".
+
 Choose where you want to save the generated PNG file.
+
 🖼️ Logo Support
 
 The application uses the QR code's High Error Correction (H) level when a logo is added.
@@ -54,6 +65,7 @@ Image processing with Pillow
 File handling
 Third-party Python libraries
 User input and error handling
+
 📄 License
 
 This project is open-source and available for educational and personal use.
