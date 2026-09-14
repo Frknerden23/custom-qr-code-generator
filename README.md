@@ -23,10 +23,6 @@ pypng – PNG generation support
 
 📦 Installation
 
-Clone the repository:
-
-
-
 Install the required dependencies:
 
 pip install pyqrcode pypng pillow
@@ -36,11 +32,17 @@ Run the application:
 Logolu_qr.py
 
 📖 How to Use
+
 Enter the URL you want to convert into a QR code.
+
 Select a foreground color.
+
 Select a background color.
+
 Optionally enable "Add logo" and choose an image.
+
 Click "Generate QR Code".
+
 Choose where you want to save the generated PNG file.
 
 🖼️ Logo Support
