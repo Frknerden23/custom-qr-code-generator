@@ -30,8 +30,6 @@ cd custom-qr-code-generator
 
 Install the required dependencies:
 
-pip install pyqrcode
-
 pip install pyqrcode pypng pillow
 
 Run the application:
